@@ -51,6 +51,7 @@ addons:
 
 sudo: false
 
+
 before_install:
   - pip install codecov
 after_success:
